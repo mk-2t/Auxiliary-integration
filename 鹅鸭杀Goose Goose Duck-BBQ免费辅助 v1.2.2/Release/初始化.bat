@@ -1,0 +1,1 @@
+echo d|xcopy "BBQ" "%userprofile%\Documents\BBQ" /e/y
